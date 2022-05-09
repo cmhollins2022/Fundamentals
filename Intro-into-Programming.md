@@ -1,10 +1,10 @@
 # Introduction to Programming and Computer Science
-### Introduction
-### What is Programming?
-### How do we write Code?
-### How do we get Information from Computers?
-### What can Computers Do?
-### What are Variables?
+## Introduction
+## What is Programming?
+## How do we write Code?
+## How do we get Information from Computers?
+## What can Computers Do?
+## What are Variables?
 ### How do we Manipulate Variables?
 ### What are Conditional Statements?
 ### What are Array’s?
