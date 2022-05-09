@@ -1,4 +1,4 @@
-# How to Learn Coding Effectively
+# How to Learn Coding Fast (and Effectively)
 
 ## Deliberate Practice
 
