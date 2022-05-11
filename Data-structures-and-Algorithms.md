@@ -8,7 +8,7 @@
 ### 4. Sliding Window Technique 
 ### 5. Recursion 
 - Nth Fib
-### 6. Invert binary tree & reversing LinkedList
+### 6. *(2 Algorithms)* Invert binary tree & reversing LinkedList
 ### 7. Suffix Trees (advanced)
 ### 8. Heaps 
 - Min heaps 
