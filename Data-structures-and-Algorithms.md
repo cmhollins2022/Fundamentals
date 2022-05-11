@@ -1,4 +1,5 @@
-# 10 Very Important Concepts
+
+## 10 Very Important Concepts
 ## 1. Logarithm
 ## 2. Graph Traversal 
        a. Depth First Search (DFS)
@@ -9,10 +10,10 @@
       a. Nth Fib
 ## 6. Invert binary tree & reversing LinkedList
 ## 7. Suffix Trees (advanced)
-8. Heaps 
+## 8. Heaps 
       a. Min heaps 
       b. Max heaps 
-9. Dynamic Programming 
-10. Sorting Algorithms 
-      a. Quick Sort 
-      b. Merge Sort
+## 9. Dynamic Programming 
+## 10. Sorting Algorithms 
+- Quick Sort 
+- Merge Sort
