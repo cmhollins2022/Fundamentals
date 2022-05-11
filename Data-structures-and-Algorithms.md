@@ -7,13 +7,13 @@
 ### 3. Binary Search 
 ### 4. Sliding Window Technique 
 ### 5. Recursion 
-- Nth Fib
+- *Nth Fib*
 ### 6. *(2 Algorithms)* Invert binary tree & reversing LinkedList
 ### 7. Suffix Trees (advanced)
 ### 8. Heaps 
-- Min heaps 
-- Max heaps 
+- *Min heaps*
+- *Max heaps* 
 ### 9. Dynamic Programming 
 ### 10. Sorting Algorithms 
-- Quick Sort 
-- Merge Sort
+- *Quick Sort*
+- *Merge Sort*
