@@ -8,7 +8,7 @@
 ## 5. Recursion 
       a. Nth Fib
 ## 6. Invert binary tree & reversing LinkedList
-7. Suffix Trees (advanced)
+## 7. Suffix Trees (advanced)
 8. Heaps 
       a. Min heaps 
       b. Max heaps 
