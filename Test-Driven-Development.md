@@ -8,4 +8,5 @@
 
 ## Non-Functional Testing
 
-##
+## Automated Testing Strategies
+- Unit Testing
