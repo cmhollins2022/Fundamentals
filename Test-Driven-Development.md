@@ -9,4 +9,6 @@
 ## Non-Functional Testing
 
 ## Automated Testing Strategies
-- ### Unit Testing
+### - Unit Testing
+### - Integration
+### - End-to-End
