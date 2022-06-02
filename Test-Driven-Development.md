@@ -10,5 +10,5 @@
 
 ## Automated Testing Strategies
 ### Unit Testing:
-### - Integration
+### Integration:
 ### - End-to-End
