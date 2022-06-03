@@ -43,5 +43,5 @@ __How to improve code/prototype:__
 
   - _"It's much easier to improve a working peice of code, than to write a perfect piece of code on the first try."_
 ## 7. Repeat
-- To become really good at anything, __you need to prcatice, repeat__ prcatice, repeat, until the technique becomes intuitive.
+- To become really good at anything, you need to __prcatice, repeat prcatice, repeat,__ until the technique becomes intuitive.
 - Get feedback from more experienced developers.
