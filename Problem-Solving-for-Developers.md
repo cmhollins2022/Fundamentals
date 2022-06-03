@@ -20,7 +20,7 @@ _Test Driven Development_ ->
   - Write tests _before_ writing code.
 1. __"Failing test"__ -> Start by writing a failing test. (What you are trying to do.)
 3. __"Write code that makes it pass"__ -> Implement code that makes the test pass. (Figure out how to do it.)
-4. __Optimize it__ -> Simplify and optimize code. (Reflect)
+4. __"Optimize it"__ -> Simplify and optimize code. (Reflect)
 ## 5. Implement
 ## 6. Reflect
 ## 7. Repeat
