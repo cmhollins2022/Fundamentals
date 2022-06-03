@@ -3,7 +3,7 @@
 - Start with context.
 - Explain why it is an issue.
 - Summarize why we should solve the problem.
-  - After dedciding the problem should be solved (and worth our time), we can break it down into _smaller problems_
+  - After dedciding the problem should be solved (and worth our time), we can break it down into __smaller problems__.
 ## 2. Research
 ## 3. Pseudocode
 ## 4. Test
