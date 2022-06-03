@@ -1,6 +1,6 @@
 # Problem-Solving for Developers
 ## 1. Identify
-_Problem Statement_:
+_Problem Statement_ ->
 - Start with context.
 - Explain why it is an issue.
 - Summarize why we should solve the problem.
