@@ -41,5 +41,5 @@ __How to improve code/prototype:__
 - Optimize the time/space complexity _(For algorithms)_
 - Add error handling
 
-  - _"It's much easier to improve a working peice of code, than it is to write a perfect piece of code on the first try."_
+  - _"It's much easier to improve a working peice of code, than to write a perfect piece of code on the first try."_
 ## 7. Repeat
