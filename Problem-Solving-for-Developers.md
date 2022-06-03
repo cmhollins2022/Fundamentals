@@ -22,7 +22,7 @@ _Test Driven Development_ ->
 3. __Write code that makes it pass__ -> Implement code that makes the test pass. (Figure out how to do it.)
 4. __Optimize it__ -> Simplify and optimize code. (Reflect)
 
-- Helps you understand your code.
+- Helps you understand your code _(And catch issues faster than manual debugging)_.
 - Prevents regressions.
 ## 5. Implement
 ## 6. Reflect
