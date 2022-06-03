@@ -25,7 +25,7 @@ _Test Driven Development..._
 - Helps you understand your code _(And catch issues faster than manual debugging)_.
 - Prevents regressions.
 ## 5. Implement
-_"Done is better than perfect..."_
+_"Done is better than perfect"_
 - Have all the tests pass.
 - Have the code work.
   - Solving a big problem is a collection of small steps. _(Trying to perfect each step is not practical and will take too long.)_
