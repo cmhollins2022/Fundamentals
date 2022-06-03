@@ -12,8 +12,8 @@ _Research and refine the problem._ ->
   - Weigh the pros and cons of all alternative approaches.
 ## 3. Pseudocode
 - Focus on __LOGIC__, not syntax. _(Create a __step-by-step__ outline. Use functions, loops and other logic driven tools.)_
-- Explore API's and tools before diving into solving the problem.
-  - Understand, the API will make it much easier to impliment the oslution when we get to the code.)
+- Explore API's and tools before diving into it.
+  - Understand, the API will make it much easier to impliment the solution when we get to the code.)
 ## 4. Test
 ## 5. Implement
 ## 6. Reflect
