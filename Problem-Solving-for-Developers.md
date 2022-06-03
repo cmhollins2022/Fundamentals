@@ -31,7 +31,13 @@ _"Done is better than perfect"_
   - Solving a big problem is a collection of small steps. _(Trying to perfect each step is not practical and will take too long.)_
   - Get to a __Full Working Prototype__.
 ## 6. Reflect
-- After creatinf a prototype, reflect on what you've done.
-- Take a break, and get rest.
-- 
+_Take a break_
+- After creating a prototype, reflect on what you've done.
+- Take a break (Even just for 15 minutes), and get rest.
+__How to improve code/prototype:__
+- Improve redability
+- Add comments
+- Remove duplication
+- Optimize the time/space complexity _(For algorithms)_
+- Add error handling
 ## 7. Repeat
