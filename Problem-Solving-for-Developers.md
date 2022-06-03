@@ -15,7 +15,7 @@ _Research and refine the problem..._
 - Explore API's and tools before diving into it.
   - Understanding the API will make it much easier to impliment the solution when we get to the code.)
 ## 4. Test
-_Test Driven Development_ ->
+_Test Driven Development..._
 - Write tests, and see where they add value to our code base.
   - Write tests _before_ writing code.
 1. __Failing test__ -> Start by writing a failing test. (What you are trying to do.)
@@ -25,7 +25,7 @@ _Test Driven Development_ ->
 - Helps you understand your code _(And catch issues faster than manual debugging)_.
 - Prevents regressions.
 ## 5. Implement
-_"Done is better than perfect"_
+_"Done is better than perfect..."_
 - Have all the tests pass.
 - Have the code work.
   - Solving a big problem is a collection of small steps. _(Trying to perfect each step is not practical and will take too long.)_
