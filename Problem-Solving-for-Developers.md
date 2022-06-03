@@ -11,7 +11,7 @@ _Research and refine the problem._ ->
 - Break the main problem down into __sub problems__. _(Do research on tools and API's that can support these requirements.)_
   - Weigh the pros and cons of all alternative approaches.
 ## 3. Pseudocode
-
+- Focus on __LOGIC__, not syntax. _(Create a step by step outline)(Use functions, loops and othere logic driven tools.)_
 ## 4. Test
 ## 5. Implement
 ## 6. Reflect
