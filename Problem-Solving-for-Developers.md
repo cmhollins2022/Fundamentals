@@ -23,7 +23,7 @@ _Test Driven Development_ ->
 4. __Optimize it__ -> Simplify and optimize code. (Reflect)
 
 - Helps you understand your code.
-- Prevents regressions
+- Prevents regressions.
 ## 5. Implement
 ## 6. Reflect
 ## 7. Repeat
