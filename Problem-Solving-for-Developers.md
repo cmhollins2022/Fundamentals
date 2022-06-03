@@ -42,6 +42,6 @@ __How to improve code/prototype:__
 - Add error handling
 
   - _"It's much easier to improve a working peice of code, than to write a perfect piece of code on the first try."_
-## 7. Practice (Repeat)
+## 7. Practice, Repeat
 - To become really good at anything, you need to __prcatice, repeat prcatice, repeat,__ until the technique becomes intuitive.
 - Get feedback from more experienced developers.
