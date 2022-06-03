@@ -9,6 +9,7 @@ _Problem Statement_ ->
 _Research and refine the problem._ ->
 - Research what others have done to solve the same problems. _(Understand what code does before blindly using it.)_
 - Break the main problem down into __sub problems__. _(Do research on tools and API's that can support these requirements.)_
+  - Weigh the pros and cons of all alternative approaches.
 ## 3. Pseudocode
 
 ## 4. Test
