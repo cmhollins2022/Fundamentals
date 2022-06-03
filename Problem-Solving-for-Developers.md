@@ -17,7 +17,7 @@ _Research and refine the problem._ ->
 ## 4. Test
 _Test Driven Development_ ->
 - Write tests, and see where they add value to our code base.
-  - Write tests before writing code.
+  - Write tests _before_ writing code.
 1. Start by writing a failing test. (What you are trying to do.)
 2. 
 3. 
