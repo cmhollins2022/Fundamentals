@@ -6,8 +6,11 @@ _Problem Statement_ ->
 - Summarize why we should solve the problem.
   - After dedciding the problem should be solved (and worth our time), we can break it down into __smaller problems__.
 ## 2. Research
-- 
+_Research and refine the problem._ ->
+- Research what others have done to solve the same problems. _(Understand what code does before blindly using it.)_
+- Break the main problem down into __sub problems__. _(Do research on tools and API's that can support these requirements.)_
 ## 3. Pseudocode
+
 ## 4. Test
 ## 5. Implement
 ## 6. Reflect
