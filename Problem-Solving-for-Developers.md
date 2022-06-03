@@ -15,6 +15,10 @@ _Research and refine the problem._ ->
 - Explore API's and tools before diving into it.
   - Understanding the API will make it much easier to impliment the solution when we get to the code.)
 ## 4. Test
+_Test Driven Development_ ->
+- Write tests, and see where they add value to our code base.
+1. Start by
+2. 
 ## 5. Implement
 ## 6. Reflect
 ## 7. Repeat
