@@ -14,7 +14,7 @@
 3. ```ls -la``` - formatted listing including hidden files
 4. ```cd``` - change directory to dir (dir Will be directory name)
 5. ```cd.``` - change to parent directory
-6. ```cd../``` - change to dir in parent directory
+6. ```cd../dir``` - change to dir in parent directory
 7. ```cd``` - change to home directory
 8. ```pwd``` - show current directory
 9. ```mkdir``` - create a directory
