@@ -1,4 +1,5 @@
 # Linux Commands
+
 ## Basic/Commonly Used
 1. ```mkdir``` - Create a folder. _("Make a directory")_
 2. ```cd``` - Change into a folder. _("Change directories")_
