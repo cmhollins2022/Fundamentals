@@ -4,10 +4,10 @@
 1. ```mkdir``` - Create a folder. _("Make a directory")_
 2. ```cd``` - Change into a folder. _("Change directories")_
 3. ```cd..``` - Change to parent directory.
-4. ```cd../``` - Change to 
-5. ```rm``` - Delete a file or folder. _("Remove")_
-6. ```ls``` - list of what the directory contains. _("List")_
-7. ```pwd``` - Show current directory. _("Present working directory)_
+4. ```rm``` - Delete a file or folder. _("Remove")_
+5. ```ls``` - list of what the directory contains. _("List")_
+6. ```pwd``` - Show current directory. _("Present working directory)_
+
 ## Files and Navigation
 1. ```ls``` - directory listing (list all files/folders on current dir)
 2. ```ls -l``` - formatted listing
@@ -23,6 +23,6 @@
 12. ```rm-r``` - delete directory
 13. ```rm-rf``` - remove directory
 14. ```cp file1 file2``` - copy file to file2
-15. ```mv file1 file2``` - rename filel to file2
-16. ```mv file1 dir/file2``` - move filel to dir as file2
+15. ```mv file1 file2``` - rename file1 to file2
+16. ```mv file1 dir/file2``` - move file1 to dir as file2
 17. ```touch file``` - create or update file
