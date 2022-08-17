@@ -2,16 +2,23 @@
 *A Brief summarization of the top 40 libraries in Python and how each one can be used*
 
 **1.	Natural Language Processing (NLP)**
+
 **2.	Gensim**
+
 **3.	FlashText**
+
 **4.	Computer Vision (CV)**
+
 **5.	Graphical User Interface (GUI)**
+
 **6.	Tkinter**
+
 **7.	Wx Python**
+
 8.	PyQt
 9.	PyGame
 10.	Pyglet
-11.	PyEngine3D
+11. PyEngine3D
 12.	Requests
 13.	Lassie
 14.	Scrapy
