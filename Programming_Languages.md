@@ -31,11 +31,11 @@ _"Choosing your programming just depends on what you want to do..."_
 
 **Compilers:** Rust, C++  or ocaml
 
-**Data Science:** python pandas or R
+**Data Science:** Python (Pandas) or R
 
-**Automation:** python
+**Automation:** Python
 
-**WebScraping:** python selenium or Java selenium
+**WebScraping:** Python (Selenium) or Java (Selenium)
 
 **Competitive Programming:** c++, Java(in cases where performance isn't too important) or python(when performance)
 
