@@ -11,25 +11,25 @@ _"Choosing your programming just depends on what you want to do..."_
 
 **Complex Web Apps:** Skills mentioned on the websites section +  a front-end framework: React, Vue, Angular or Svelte
 
-**Backend and server side stuff:** Python django, c# net, java spring, JavaScript node w/ express, Go, PHP laravel or PHP w/ WordPress, ruby on rails or Scala
+**Backend and Server-side Development:** Python django, c# net, java spring, JavaScript node w/ express, Go, PHP laravel or PHP w/ WordPress, ruby on rails or Scala
 
-**Desktop apps:** C++, python pyqt5 ,JavaScript electron, c# with .net(as mentioned by @Norica),  java swing, java with qtjambi or Java FX(these last three were mentioned by @Adam Akmal)
+**Desktop Apps:** C++, python pyqt5 ,JavaScript electron, c# with .net(as mentioned by @Norica),  java swing, java with qtjambi or Java FX(these last three were mentioned by @Adam Akmal)
 
-**Mobile apps:** JavaScript React Native, dart with flutter, c# xamarin or native script
+**Mobile Apps:** JavaScript React Native, Dart with Flutter, c# Xamarin or Native Script
 
-**IOS apps:** Swift or Objective C
+**IOS Apps:** Swift or Objective C
 
-**Android apps:** Kotlin or Java
+**Android Apps:** Kotlin or Java
 
 **Command Line Apps:** Seriously any of them will do
 
-3d game dev: Unity c# or Unreal c++
+**3d Game Development:** Unity c# or Unreal c++
 
-2d game dev: Pygame for simpler games and for more complex games c# unity or my personal favourite: Godot gdscript
+**2d Game Development:** Pygame for simpler games and for more complex games c# unity or my personal favourite: Godot gdscript
 
-Embedded Systems: C, C++, Rust or Assembly
+**Embedded Systems:** C, C++, Rust or Assembly
 
-Compilers: Rust, C++  or ocaml
+**Compilers:** Rust, C++  or ocaml
 
 **Data Science:** python pandas or R
 
@@ -37,7 +37,7 @@ Compilers: Rust, C++  or ocaml
 
 **WebScraping:** python selenium or Java selenium
 
-**Competitive programming:** c++, Java(in cases where performance isn't too important) or python(when performance)
+**Competitive Programming:** c++, Java(in cases where performance isn't too important) or python(when performance)
 
 **Databases:** SQL
 
