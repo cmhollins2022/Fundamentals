@@ -3,7 +3,7 @@ _Some of the most popular, currently used Programming languages and what they ca
 
 _"Choosing your programming just depends on what you want to do..."_
 
-**Learn the basics of programming:** python
+**Learn the basics of programming:** Python
 
 **Machine Learning:** Python with tenserflow or pytorch. Another language you can use in this domain is Julia
 
