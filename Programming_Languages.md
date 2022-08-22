@@ -5,7 +5,7 @@ _"Choosing your programming just depends on what you want to do..."_
 
 **Learn the basics of programming:** Python
 
-**Machine Learning:** Python with tenserflow or pytorch. Another language you can use in this domain is Julia
+**Machine Learning:** Python with Tenserflow or pytorch. Another language you can use in this domain is Julia
 
 **Websites:** JavaScript(possibly typescript for more complex projects) , HTML and CSS
 
