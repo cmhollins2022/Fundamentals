@@ -1,4 +1,4 @@
-# Popular Programming Languages & Their Uses
+# Popular Programming Languages & Their Uses...
 _Some of the most popular, currently used Programming languages and what they can be used for. A brief explanation._
 
 _"Choosing your programming just depends on what you want to do..."_ and also, try to never give up.
