@@ -1,5 +1,5 @@
 # Case Styling in Programming
-_A brief overview of the most common programmaning case styles._
+_A brief overview of the most common programmaning case styles._ And keep going!
 
 ### Snake case
 
