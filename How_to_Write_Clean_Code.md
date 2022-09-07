@@ -20,3 +20,4 @@ throughout the project your are working on, this includes variable names, file n
 ### 3) Write Self explanatory Code 
 Code that can be written for others to easily understand, and in case of complex code/logic, document using the comments properly
 
+clean code
