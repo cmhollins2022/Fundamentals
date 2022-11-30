@@ -57,8 +57,10 @@ The console is mainlu a Developer Tool.
   * In the case where there is no remainder, the comoputer will return 0.
   * This can be useful when determinnig if a number is even or odd.
 
-**STRING**
+**STRINGS**
+
 **Strings** are another way of saying text. Anything enclosed by quotation marks is denoted as a string.
+
 ## What are Variables?
 ## How do we Manipulate Variables?
 ## What are Conditional Statements?
