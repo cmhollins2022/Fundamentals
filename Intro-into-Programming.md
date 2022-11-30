@@ -25,6 +25,10 @@ We write code with **IDE's** (Integrated Development Environments).
 * IDE's are like any other program on your computer except use dfor the facilitation of code.
   * Examples (NetBeans, IntelliJ, Visual-Studios)
 
+IDE's also include...
+- Built in error checking
+- Auto-Fill
+
 ## How do we get Information from Computers?
 ## What can Computers Do?
 ## What are Variables?
