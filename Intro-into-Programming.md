@@ -25,9 +25,14 @@ We write code with **IDE's** (Integrated Development Environments).
 * IDE's are like any other program on your computer except use dfor the facilitation of code.
   * Examples (NetBeans, IntelliJ, Visual-Studios)
 
-IDE's also include...
-- Built in error checking
-- Auto-Fill
+IDE's also include: Built in error checking and Auto-Fill.
+
+Programmung languages have a set of rules you must follow, including _grammer_. **Syntax** are rules you must follow (to a tee) in order for the program to run correctly.
+* How you type out certain functions...
+* What you put at the end of each line of code...
+* How you set up certain functions...
+Syntax for each programming language is unique.
+Breaking programming rules will result in an _error_.
 
 ## How do we get Information from Computers?
 ## What can Computers Do?
