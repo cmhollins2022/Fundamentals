@@ -97,7 +97,8 @@ Blank variable names can be useful when...
 * You eventually want to store information in the variable.
 * You will use it to store user input.
 
-Trying to reference a blank variable will result in a NullPointerException
+Trying to reference a blank variable will result in a NullPointerException.
+
 ## What are Conditional Statements?
 ## What are Array’s?
 ## What are Loops?
