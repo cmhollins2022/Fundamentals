@@ -61,6 +61,7 @@ The console is mainlu a Developer Tool.
 
 **Strings** are another way of saying text. Anything enclosed by quotation marks is denoted as a string.
 * Using **concatenation**, we a can add strings together, and even include other data types like integers (and even arithmetic functions) within them.
+* If you attempt to do math with a number in quotation marks (like: 4 + "4"), it will return an error. This is because a number within quotation marks is interpreted as a "string" data type, while it is considered an integer (int) data type without them.
 
 ## What are Variables?
 ## How do we Manipulate Variables?
