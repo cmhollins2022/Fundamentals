@@ -86,10 +86,9 @@ There are many dufferent types of variables, but here are the _primitive type_ v
 * They are useful when a programmer wants to read a single button press in a string, without using a String variable. (Like a game controlled by keyboard input)
 * You can store char's in a string variable, but not strings longer than 1 character in a char variable.
 
-Often times, you will want to keep track of things such as a user's name or score.
-* Variables allow you to refrence previously defined data, and add to or modify it when needed.
-  * Taking input from the user.
-  * Making your program have variability, allowing it to change based on different conditions.  
+Often times, you will want to keep track of things such as a user's name or score. Variables allow you to refrence previously defined data, and add to or modify it when needed.
+* Taking input from the user.
+* Making your program have variability, allowing it to change based on different conditions.  
 
 ## How do we Manipulate Variables?
 
