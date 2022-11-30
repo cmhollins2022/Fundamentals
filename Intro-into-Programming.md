@@ -91,7 +91,13 @@ Often times, you will want to keep track of things such as a user's name or scor
 * Making your program have variability, allowing it to change based on different conditions.  
 
 ## How do we Manipulate Variables?
+When variablaes are defined, the computer creates a little space in memory that stores your variable name and its contents.
 
+Blank variable names can be useful when...
+* You eventually want to store information in the variable.
+* You will use it to store user input.
+
+Trying to reference a blank variable will result in a NullPointerException
 ## What are Conditional Statements?
 ## What are Array’s?
 ## What are Loops?
