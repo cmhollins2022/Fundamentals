@@ -111,7 +111,7 @@ Arithmetic operations can be preformed on **int**, **float**, and **double** var
 
 Most programming languages use braces () to evaluate whatever is inside as true or false. If the statement is true, whatever is enclosed inside the set of curly braces (or colon ":" in some languages) will run.
 
-There are also **elif** (which sets another condition to check for if the first _if_ is not true) and **else** which happens if none of the conditions are true.
+There are also **elif** "else-if" (which sets another condition to check for if the first _if_ is not true) and **else** which happens if none of the conditions are true.
 ```
 if (this thing is true){
   }
