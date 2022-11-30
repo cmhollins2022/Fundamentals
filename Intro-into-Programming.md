@@ -67,6 +67,14 @@ The console is mainlu a Developer Tool.
 A **variable** is something that can both store information, and later be refrenced and manipulated.
 * Each variable has a _type_, a _name_, and a peace of information stored within it. ("Name", simply being a name for the variable.)
 
+There are many dufferent types of variables, but here are the _primitive type_ variables:
+- Intergers - 4
+- Booleans - True, False
+- Floats - 3.14
+- Doubles - 4.0
+- Strings - "Hello World"
+- Chars - " A "
+
 ## How do we Manipulate Variables?
 ## What are Conditional Statements?
 ## What are Array’s?
