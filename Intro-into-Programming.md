@@ -110,8 +110,8 @@ Arithmetic operations can be preformed on **int**, **float**, and **double** var
 **If Statements** are the most basic conditional statement. (**if** something is _True_, do this, otherwise, do something **else**.)
 
 Most programming languages use braces () to evaluate whatever is inside as true or false. If the statement is true, whatever is enclosed inside the set of curly braces (or colon ":" in some languages) will run.
-`if (this thing is true) {
-  }`
+``if (this thing is true) {
+  }``
 
 ## What are Array’s?
 ## What are Loops?
