@@ -32,7 +32,7 @@ Programmung languages have a set of rules you must follow, including _grammer_. 
 * What you put at the end of each line of code...
 * How you set up certain functions...
 Syntax for each programming language is unique.
-Breaking programming rules will result in an _error_.
+Breaking programming rules will result in an _error_. **Syntax Errors** specifically returned if the syntax you use is incorrect. (Parts of your code which do not follow the rules.) 
 
 ## How do we get Information from Computers?
 ## What can Computers Do?
