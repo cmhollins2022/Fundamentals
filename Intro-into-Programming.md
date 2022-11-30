@@ -93,11 +93,12 @@ Often times, you will want to keep track of things such as a user's name or scor
 ## How do we Manipulate Variables?
 When variablaes are defined, the computer creates a little space in memory that stores your variable name and its contents.
 
-Blank variable names can be useful when...
+**Blank variable names** can be useful when...
 * You eventually want to store information in the variable.
 * You will use it to store user input.
-
 Trying to reference a blank variable will result in a NullPointerException.
+
+**Dual Pointed Variables** point to the same location of memory that has already been created for the previously defined variable.
 
 ## What are Conditional Statements?
 ## What are Array’s?
