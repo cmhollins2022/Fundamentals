@@ -1,6 +1,6 @@
 # Introduction to Programming and Computer Science
 ## Introduction
-**Programming** - The process of preparing an instructional program for a device (Attempting to get a computer to do a simple task <ud>without</ud> making mistakes.
+**Programming** - The process of preparing an instructional program for a device (Attempting to get a computer to do a simple task _without_ making mistakes.
 
 
 ## What is Programming?
