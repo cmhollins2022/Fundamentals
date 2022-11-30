@@ -104,7 +104,7 @@ Trying to reference a blank variable will result in a NullPointerException.
 
 Arithmetic operations can be preformed on **int**, **float**, and **double** variables. **String** variables can be added. **Char** and **Boolean** values cannot be operated on.
 
-**Variable names** MUST be one continuous string. Most programmers name variables according to **camelCase**. (The first letter of the word remainslower-case, while captilazing the first letter of every other word)
+**Variable names** MUST be one continuous string. Most programmers name variables according to **camelCase**. (The first letter of the word remainslower-case, while captilazing the first letter of every other word) (camelCaseVariable, anotherCamelCaseVariable, evenOneMoreCamelCaseVariable)
 
 ## What are Conditional Statements?
 ## What are Array’s?
