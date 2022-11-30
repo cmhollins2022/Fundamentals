@@ -37,7 +37,7 @@ Breaking programming rules will result in an _error_. **Syntax Errors** specific
 ## How do we get Information from Computers?
 Programmers keep track of their progress by looking at the **console**, which is a text interface within the computer that us programmers can use for a variety of purposes.
 
-The main use of the console is top output text from the prohram using code.
+The main use of the console is top output text from the program using code...
 * More specifically a **print statement**, which prints text to the console for the programmers to see.
 The console is mainlu a Developer Tool.
 * It is not usually meant to be used and interacted with by the end user except in very abstract cases, like text-based games, and simple programs.
