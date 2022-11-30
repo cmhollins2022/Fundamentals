@@ -80,6 +80,9 @@ There are many dufferent types of variables, but here are the _primitive type_ v
 **Floats, Doubles** - Both are types of floating point data types. They can store numbers with decimal places.
 * _Float Variables_: Can store up to 32 bits of information.
 * _Double Variables_: Can store up to 64 bits of information.
+**Strings** store text in a variable. They are useful for displaying trxt and storing **input information**, or information the user puts into our program.
+* They can also be useful for outputting readable and formatted information for the user.
+
 
 ## How do we Manipulate Variables?
 ## What are Conditional Statements?
