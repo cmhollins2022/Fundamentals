@@ -44,6 +44,13 @@ The console is mainlu a Developer Tool.
 * It is usually hidden away, and not common to impliment the console in the final product. (So don't try to.)
 
 ## What can Computers Do?
+**MATH:**
+* The computer already knows how to do simple arithmetic.
+  * Addition, Subtraction, Multiplication, and Division.
+* You can print the result of any math operatin in an IDE that you use.
+* Even simple arithmetic math can be very useful in almost any program we wright, and extremly often.
+
+
 ## What are Variables?
 ## How do we Manipulate Variables?
 ## What are Conditional Statements?
