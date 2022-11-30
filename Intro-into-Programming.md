@@ -49,8 +49,9 @@ The console is mainlu a Developer Tool.
   * Addition, Subtraction, Multiplication, and Division.
 * You can print the result of any math operatin in an IDE that you use.
 * Even simple arithmetic math can be very useful in almost any program we wright, and extremly often.
-
-
+**Modulus**
+* Most programming languages have an additional operator known as **modulus**, represented by the "%" sign.
+* The modulus allows us to get the remainder of a divisional operation.
 ## What are Variables?
 ## How do we Manipulate Variables?
 ## What are Conditional Statements?
