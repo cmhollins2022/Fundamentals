@@ -64,6 +64,8 @@ The console is mainlu a Developer Tool.
 * If you attempt to do math with a number in quotation marks (like: 4 + "4"), it will return an error. This is because a number within quotation marks is interpreted as a "string" data type, while it is considered an integer (int) data type without them.
 
 ## What are Variables?
+A **variable** is something that can both store information, and later be refrenced and manipulated.
+
 ## How do we Manipulate Variables?
 ## What are Conditional Statements?
 ## What are Array’s?
