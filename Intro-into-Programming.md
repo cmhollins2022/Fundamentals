@@ -35,6 +35,8 @@ Syntax for each programming language is unique.
 Breaking programming rules will result in an _error_. **Syntax Errors** specifically returned if the syntax you use is incorrect. (Parts of your code which do not follow the rules.) 
 
 ## How do we get Information from Computers?
+Programmers keep track of their progress by looking at the **console**, which is a text interface within the computer that us programmers can use for a variety of purposes.
+
 ## What can Computers Do?
 ## What are Variables?
 ## How do we Manipulate Variables?
