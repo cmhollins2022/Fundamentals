@@ -60,6 +60,7 @@ The console is mainlu a Developer Tool.
 **STRINGS**
 
 **Strings** are another way of saying text. Anything enclosed by quotation marks is denoted as a string.
+* Using **concatenation**, we a can add strings together, and even include other data types like integers (and even arithmetic functions) within them.
 
 ## What are Variables?
 ## How do we Manipulate Variables?
