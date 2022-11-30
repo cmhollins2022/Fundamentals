@@ -5,8 +5,8 @@ Computers are not very smart. They must be explicitly told what to do through **
 * **Machine Code** - A series of 1's and 0's fed and interpreted by the computer.
    * Every instruction is converted into a string of 1's and 0's and interpreted by the computer to carry out a task.
 
-Each language also has an attribute known as "power" or "level"
-* Basically, how similar it is to machine code
+Each language also has an attribute known as "power" or "level".
+* Basically, how similar it is to machine code.
 
 Low-level programming languages, like _Assembly_, or _C_ are more similar to machine code, while higher level programming languages aren't.
 
@@ -20,6 +20,11 @@ Power Level varies as well:
 
 
 ## How do we write Code?
+We write code with **IDE's** (Integrated Development Environments).
+* A place to write, run and debug code, and also convert it to machine code.
+* IDE's are like any other program on your computer except use dfor the facilitation of code.
+  * Examples (NetBeans, IntelliJ, Visual-Studios)
+
 ## How do we get Information from Computers?
 ## What can Computers Do?
 ## What are Variables?
