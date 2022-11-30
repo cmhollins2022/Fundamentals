@@ -52,6 +52,7 @@ The console is mainlu a Developer Tool.
 **Modulus**
 * Most programming languages have an additional operator known as **modulus**, represented by the "%" sign.
 * The modulus allows us to get the remainder of a divisional operation.
+  * 10 % 3 - We tell the computer to divide 10 by 3, ignore the _actual_ answer, and give us the reaminder, which is 1.
 ## What are Variables?
 ## How do we Manipulate Variables?
 ## What are Conditional Statements?
