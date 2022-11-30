@@ -98,7 +98,9 @@ When variablaes are defined, the computer creates a little space in memory that 
 * You will use it to store user input.
 Trying to reference a blank variable will result in a NullPointerException.
 
-**Dual Pointed Variables** point to the same location of memory that has already been created for the previously defined variable. **Update variables** by setting them equal to a new value.
+**Dual Pointed Variables** point to the same location of memory that has already been created for the previously defined variable. 
+**Update variables** by setting them equal to a new value.
+
 
 ## What are Conditional Statements?
 ## What are Array’s?
