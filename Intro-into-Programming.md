@@ -100,8 +100,9 @@ Trying to reference a blank variable will result in a NullPointerException.
 
 **Dual Pointed Variables** point to the same location of memory that has already been created for the previously defined variable. 
 
-**Update variables** by setting them equal to a new value.
+**Update variables** by setting them equal to a new value. After a code has completed, variables are deleted in memory.
 
+Arithmetic operations can be preformed on **int**, **float**, and **double** variables. **String** variables can be added. **Char** and **Boolean** values cannot be operated on.
 
 ## What are Conditional Statements?
 ## What are Array’s?
