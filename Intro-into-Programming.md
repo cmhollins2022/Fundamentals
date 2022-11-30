@@ -107,6 +107,8 @@ Arithmetic operations can be preformed on **int**, **float**, and **double** var
 **Variable names** MUST be one continuous string. Most programmers name variables according to **camelCase**. (The first letter of the word remainslower-case, while captilazing the first letter of every other word) (camelCaseVariable, anotherCamelCaseVariable, evenOneMoreCamelCaseVariable)
 
 ## What are Conditional Statements?
+**If Statements** are the most basic conditional statement. (**"if"** something is _True_, do this, otherwise, do something **else**.)
+
 ## What are Array’s?
 ## What are Loops?
 ## What are Errors?
