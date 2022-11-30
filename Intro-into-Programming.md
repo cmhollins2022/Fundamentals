@@ -111,8 +111,13 @@ Arithmetic operations can be preformed on **int**, **float**, and **double** var
 
 Most programming languages use braces () to evaluate whatever is inside as true or false. If the statement is true, whatever is enclosed inside the set of curly braces (or colon ":" in some languages) will run.
 ```
-if (this thing is true) {
+if (this thing is true){
   }
+elif (we then run this) {
+ }
+else {
+  do this things
+}
 ```
 
 ## What are Array’s?
