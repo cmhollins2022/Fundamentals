@@ -75,6 +75,12 @@ There are many dufferent types of variables, but here are the _primitive type_ v
 - Strings - "Hello World"
 - Chars - " A "
 
+**Intergers** are variables that can store an integer values. (All whole numbers, but no decimals)
+**Booleans** can store a value of either _true_ or _false_. They can only hold these two values. (No other types of information.)
+**Floats, Doubles** - Both are types of floating point data types. They can store numbers with decimal places.
+* _Float Variables_: Can store up to 32 bits of information.
+* _Double Variables_: Can store up to 64 bits of information.
+
 ## How do we Manipulate Variables?
 ## What are Conditional Statements?
 ## What are Array’s?
