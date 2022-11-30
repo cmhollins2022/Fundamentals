@@ -1,9 +1,11 @@
 # Introduction to Programming and Computer Science
-## Introduction
-**Programming** - The process of preparing an instructional program for a device (Attempting to get a computer to do a simple task _without_ making mistakes.
-
-
 ## What is Programming?
+**Programming** - The process of preparing an instructional program for a device (Attempting to get a computer to do a simple task _without_ making mistakes.)
+* Computers are not very smart. They must be explicitly told what to do through **Machine Code**.
+  * **Machine Code** - A series of 1's and 0's fed and interpreted by the computer.
+    * Every instruction is converted into a string of 1's and 0's and interpreted by the computer to carry out a task.
+
+
 ## How do we write Code?
 ## How do we get Information from Computers?
 ## What can Computers Do?
