@@ -39,6 +39,9 @@ Programmers keep track of their progress by looking at the **console**, which is
 
 The main use of the console is top output text from the prohram using code.
 * More specifically a **print statement**, which prints text to the console for the programmers to see.
+The console is mainlu a Developer Tool.
+* It is not usually meant to be used and interacted with by the end user except in very abstract cases, like text-based games, and simple programs.
+* It is usually hidden away, and not common to impliment the console in the final product. (So don't try to.)
 
 ## What can Computers Do?
 ## What are Variables?
