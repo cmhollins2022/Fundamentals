@@ -15,7 +15,8 @@ Each language is unique, in how they operate:
 - _HTML_ and _CSS_ are designed for specific tasks, like Web Design.
 
 Power Level varies as well:
-- _JavaScript_ is not usual
+- _JavaScript_ is not usually used for big problems.
+-  _Java_ and _Python_ are used for bigger problems.
 
 
 ## How do we write Code?
