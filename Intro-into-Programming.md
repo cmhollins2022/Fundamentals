@@ -5,6 +5,18 @@ Computers are not very smart. They must be explicitly told what to do through **
 * **Machine Code** - A series of 1's and 0's fed and interpreted by the computer.
    * Every instruction is converted into a string of 1's and 0's and interpreted by the computer to carry out a task.
 
+Each language also has an attribute known as "power" or "level"
+* Basically, how similar it is to machine code
+
+Low-level programming languages, like _Assembly_, or _C_ are more similar to machine code, while higher level programming languages aren't.
+
+Each language is unique, in how they operate:
+- _Java_ and _Python_ are general purpose languages.
+- _HTML_ and _CSS_ are designed for specific tasks, like Web Design.
+
+Power Level varies as well:
+- _JavaScript_ is not usual
+
 
 ## How do we write Code?
 ## How do we get Information from Computers?
