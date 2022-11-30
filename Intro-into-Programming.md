@@ -50,14 +50,14 @@ The console is mainlu a Developer Tool.
 * You can print the result of any math operatin in an IDE that you use.
 * Even simple arithmetic math can be very useful in almost any program we wright, and extremly often.
 
-**MODULOUS**
+**MODULOUS:**
 * Most programming languages have an additional operator known as **modulus**, represented by the "%" sign.
 * The modulus allows us to get the remainder of a divisional operation.
   * 10 % 3 - We tell the computer to divide 10 by 3, ignore the _actual_ answer, and give us the reaminder, which is 1.
   * In the case where there is no remainder, the comoputer will return 0.
   * This can be useful when determinnig if a number is even or odd.
 
-**STRINGS**
+**STRINGS:**
 
 **Strings** are another way of saying text. Anything enclosed by quotation marks is denoted as a string.
 * Using **concatenation**, we a can add strings together, and even include other data types like integers (and even arithmetic functions) within them.
@@ -65,6 +65,7 @@ The console is mainlu a Developer Tool.
 
 ## What are Variables?
 A **variable** is something that can both store information, and later be refrenced and manipulated.
+* Each variable has a _type_, a _name_, and a peace of information stored within it. ("Name", simply being a name for the variable.)
 
 ## How do we Manipulate Variables?
 ## What are Conditional Statements?
