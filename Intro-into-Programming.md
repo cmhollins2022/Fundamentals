@@ -82,9 +82,13 @@ There are many dufferent types of variables, but here are the _primitive type_ v
 * _Double Variables_: Can store up to 64 bits of information.
 **Strings** store text in a variable. They are useful for displaying trxt and storing **input information**, or information the user puts into our program.
 * They can also be useful for outputting readable and formatted information for the user.
+**Chars** (also known as Characters) hold one character.
+* They are useful when a programmer wants to read a single button press in a string, without using a String variable. (Like a game controlled by keyboard input)
+* You can store char's in a string variable, but not strings longer than 1 character in a char variable.
 
 
 ## How do we Manipulate Variables?
+
 ## What are Conditional Statements?
 ## What are Array’s?
 ## What are Loops?
