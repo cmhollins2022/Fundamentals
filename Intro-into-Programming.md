@@ -109,8 +109,8 @@ Arithmetic operations can be preformed on **int**, **float**, and **double** var
 ## What are Conditional Statements?
 **If Statements** are the most basic conditional statement. (**if** something is _True_, do this, otherwise, do something **else**.)
 
-```if (this thing is true){
-  }```
+`if (this thing is true){
+  }`
 
 ## What are Array’s?
 ## What are Loops?
