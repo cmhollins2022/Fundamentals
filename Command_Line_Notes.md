@@ -3,7 +3,7 @@
 ## Basic/Commonly Used
 1. ```mkdir``` - Create a folder. _("Make a directory")_
 2. ```cd``` - Change into a folder. _("Change directories")_
-3. ```cd-``` - Go back a directory.
+3. ```cd -``` - Go back a directory.
 4. ```cd..``` - Change to parent directory.
 5. ```rm``` - Delete a file. _("Remove")_
 6. ```rm -r``` - Delete a directory.
